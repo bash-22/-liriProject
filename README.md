@@ -1,7 +1,8 @@
-# liriProject
+ ![logo](Logo.png)
+ 
+## liriProject         
 
 LIRI is a Language Interpretation and Recognition Interface. Use LIRI to find out about a song, a concert coming up, or a movie, or just choose a random action from your own random file.
-
 
 # Installs
 The [package.json](../-liriProject/package.json) lists dependent node packages, but for your convenvice, these are the ones to install.
@@ -24,3 +25,7 @@ The [package.json](../-liriProject/package.json) lists dependent node packages, 
 - `node liri.js concert-this`      *Retrieves information for an upcoming concert*
 
 - `node liri.js do-what-it-say`    *Gets random text inside a file and does what it says*
+
+
+
+ 
