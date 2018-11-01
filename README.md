@@ -2,7 +2,7 @@
  
 ## liriProject         
 
-LIRI is a Language Interpretation and Recognition Interface. Use LIRI to find out about a song, a concert coming up, or a movie, or just choose a random action from your own random file.
+LIRI is a Language Interpretation and Recognition Interface. Use LIRI to find out about a song, a concert coming up, a movie, or just choose a random action from your own random file.
 
 # Installs
 The [package.json](../-liriProject/package.json) lists dependent node packages, but for your convenvice, these are the ones to install.
