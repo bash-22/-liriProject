@@ -16,7 +16,11 @@ The [package.json](../-liriProject/package.json) lists dependent node packages, 
 `npm install fs`
 
 ### Here's a quick rundom of the commands you can use in LIRI : 
-`node liri.js spotify-this`  *Retrieves song information for a track*
-`node liri.js movie-this` *Retrieves movie information for a movie*
-`node liri.js concert-this` *Retrieves information for an upcoming concert*
-`node liri.js do-what-it-say` *Gets random text inside a file and does what it says*
+
+- `node liri.js spotify-this`      *Retrieves song information for a track* 
+
+- `node liri.js movie-this`        *Retrieves movie information for a movie*
+
+- `node liri.js concert-this`      *Retrieves information for an upcoming concert*
+
+- `node liri.js do-what-it-say`    *Gets random text inside a file and does what it says*
